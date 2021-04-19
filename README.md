@@ -1,2 +1,1 @@
-# Groupe de blanch_b 860887
-
+Brice Blanchard : Projet MyCrd
